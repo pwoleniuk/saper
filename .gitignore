@@ -1,0 +1,10 @@
+
+*.class
+*.iml
+obj
+bin
+*.layout
+*.depend
+*.cbp
+*.bmp
+
